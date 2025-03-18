@@ -1,2 +1,2 @@
 #Kalkulator Nilai Akhir.
-Ini adalah kalkulator nilai kahir siswa yang menghitung nilai akhir dan grade
+Ini adalah kalkulator nilai akhir siswa yang menghitung nilai akhir dan grade
